@@ -15,8 +15,8 @@ sudo apt update && sudo apt install -y golang
 
 ### 🔹 Clone the repository
 ```bash
-git clone https://github.com/KingOfBugbounty/joinerList.git
-cd joinerList
+git clone https://github.com/KingOfBugbounty/uniqwordlist.git
+cd uniqwordlist
 ```
 
 ### 🔹 Build the binary
