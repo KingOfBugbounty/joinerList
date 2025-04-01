@@ -40,14 +40,14 @@ Once compiled, you can use UniqWordlist with the following command:
 ### 📌 Example
 #### **Input Files**
 
-🔹 `common.txt`
+🔹 `common.txt` your wordlist
 ```
 admin
 webmail
 portal
 ```
 
-🔹 `dod.txt`
+🔹 `dod.txt` your list subdomains
 ```
 army.mil
 defense.gov
@@ -70,10 +70,4 @@ After execution, all generated subdomains will be saved in `final.txt`. 🎯
 ## 📜 License
 This project is open-source and available under the MIT License.
 
----
-
-## 💡 Contributing
-Pull requests are welcome! Feel free to submit issues or suggestions.
-
-Happy hacking! 🛠️🔥
 
